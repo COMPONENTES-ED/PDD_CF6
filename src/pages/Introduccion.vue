@@ -85,6 +85,10 @@
             allowfullscreen="allowfullscreen"
           ></iframe>
         </div>
+        <figcaption>
+          Video. Sistematización y documentación de datos masivos mediante
+          métodos de analítica
+        </figcaption>
       </figure>
     </div>
   </div>
